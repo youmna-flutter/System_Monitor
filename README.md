@@ -1,4 +1,3 @@
-# System_Monitor
 # GTK3 System Monitor
 
 - Real-time CPU/Memory visualization with circular gauges
